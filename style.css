@@ -28,6 +28,21 @@ body{
 #pr2 {
 	margin-bottom: 40px;
 }
-a .btn {
-	margin-top: 30px;
+.certificates {
+	font-size: 38px;
+}
+#certificates {
+	margin-top: 40px;
+}
+#secondHalf {
+	margin-top: 40px;
+}
+#bld h2 {
+	font-weight: bold;
+}
+#contact {
+	padding: 25px;
+}
+footer {
+	padding: 15px;
 }
